@@ -10,8 +10,8 @@ At the Time Of Encryption It will give you 2 keys (IV/KEY). This 2 keys is impor
 * If you Encrypt The text Document and send it to another person, The person Must have the same tool And The 2 Keys for Decryption.
 
 
-INSTALLIATION : FOR LINUX :-
-git clone 
+INSTALLIATION : 
+FOR LINUX :- git clone 
 
-GIVE THE PERMISSION TO EXECUTION.
+GIVE THE PERMISSION TO EXECUTABLE.
 CHMOD +U 
