@@ -3,7 +3,7 @@
 *Encryption And Decryption Tutorial :-
 In encryption you can encrypt a string and Text Document and at the time of decryption same process you need to repeat...
 
-Note:- In case of Any Zvulnerability found contact the creator.
+Note:- In case of Any vulnerability found contact the creator.
 
 * Disclaimer:- This repositorie if for educational purpose only. In case of any misuse , the creator is not responsible for any kind of loss. Use at your own risk.
  
