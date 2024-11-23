@@ -23,25 +23,6 @@ cd Encrypt-File
 ./Encrypt.sh / ./Decrypt.sh
 
 
-
-
-
-https://github.com/user-attachments/assets/162336ce-65bc-44f7-8bac-628438aabdcb
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/5aeaf913-271c-4cfa-882c-41f759935bcd
 
 
