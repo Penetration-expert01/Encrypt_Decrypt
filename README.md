@@ -14,4 +14,4 @@ INSTALLIATION :
 FOR LINUX :- git clone https://github.com/Penetration-expert01/Encrypt_Decrypt.git
 
 GIVE THE PERMISSION TO EXECUTABLE.
-CHMOD +U 
+CHMOD +U Encrypt-File
