@@ -15,3 +15,6 @@ For encryption there is -AES-256-CBC(Advanced Encryption Standard)/(Cipher Block
 INSTALLIATION : 
 FOR LINUX :- git clone https://github.com/Penetration-expert01/Encrypt_Decrypt.git
 chmod +x Encrypt-File
+cd Encrypt
+cd Encrypt-File
+./Encrypt.sh / ./Decrypt.sh
