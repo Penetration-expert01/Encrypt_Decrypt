@@ -21,10 +21,10 @@ cd Encrypt-File
 
 chmod +x Encrypt.sh
 
-chmod +x Decrypt.sh
+chmod +x decrypt.sh
 
 
-./Encrypt.sh / ./Decrypt.sh
+./Encrypt.sh / ./decrypt.sh
 
 
 https://github.com/user-attachments/assets/5aeaf913-271c-4cfa-882c-41f759935bcd
