@@ -11,7 +11,7 @@ At the Time Of Encryption It will give you 2 keys (IV/KEY). This 2 keys is impor
 
 
 INSTALLIATION : 
-FOR LINUX :- git clone 
+FOR LINUX :- git clone https://github.com/Penetration-expert01/Encrypt_Decrypt.git
 
 GIVE THE PERMISSION TO EXECUTABLE.
 CHMOD +U 
