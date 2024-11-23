@@ -4,10 +4,10 @@
 In encryption you can encrypt a string and at the time of decryption same process you need to repeat...
 
 * Disclaimer:- This repositories if for educational purpose only. In case of any misuse , the creator is not responsible for any kind of loss. Use at your own risk.
-* 
+ 
 Platform Compatibility :-
-For Now IT is only For LINUX user. This is only For Text Document encryption/Decryption. For encryption There is -AES-256_CBC.
-At the Time Of Encryption It will give you 2 keys (IV/KEY). This 2 keys is important for Decryption.
+# For now it's only available for LINUX user.This is only text Document encryption encryption/decryption.
+For encryption there is -AES-256-CBC. At the time of encryption it will give you 2 keys (IV/KEY) . This 2 keys are important for decryption.
 
 * If you Encrypt The text Document and send it to another person, The person Must have the same tool And The 2 Keys for Decryption.
 
