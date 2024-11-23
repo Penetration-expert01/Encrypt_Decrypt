@@ -1,9 +1,9 @@
 # Encrypt_Decrypt
 
 *Encryption And Decryption Tutorial :-
-In encryption you can encrypt a string and at the time of decryption same process you need to repeat...
+In encryption you can encrypt a string and Text Document and at the time of decryption same process you need to repeat...
 
-* Disclaimer:- This repositories if for educational purpose only. In case of any misuse , the creator is not responsible for any kind of loss. Use at your own risk.
+* Disclaimer:- This repositorie if for educational purpose only. In case of any misuse , the creator is not responsible for any kind of loss. Use at your own risk.
  
 Platform Compatibility :-
 # For now it's only available for LINUX user.This is only text Document encryption/decryption.
